@@ -67,7 +67,7 @@ export function Contact() {
               <div>
                 <h4 className="font-bold text-slate-900 text-lg mb-1">Email Us</h4>
                 <p className="text-slate-600 group-hover:text-yellow-600 transition-colors">
-                  <a href="mailto:sqrtron.ai@gmail.com">sqrtron.ai@gmail.com</a>
+                  <a href="mailto:arsalaan@sqrtron.com">arsalaan@sqrtron.com</a>
                 </p>
               </div>
             </div>
