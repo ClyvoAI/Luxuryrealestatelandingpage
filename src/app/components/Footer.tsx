@@ -26,7 +26,7 @@ export function Footer() {
           </address>
           <div className="text-sm space-y-1">
             <p><a href="tel:+919177837007" className="text-yellow-500 hover:text-yellow-400 transition-colors">+91 9177837007</a></p>
-            <p><a href="mailto:sqrtron.ai@gmail.com" className="text-yellow-500 hover:text-yellow-400 transition-colors">sqrtron.ai@gmail.com</a></p>
+            <p><a href="mailto:arsalaan@sqrtron.com" className="text-yellow-500 hover:text-yellow-400 transition-colors">arsalaan@sqrtron.com</a></p>
           </div>
           <p className="text-xs text-slate-600 font-mono">GSTIN: 36ABPCS8056D1ZY</p>
         </div>
@@ -53,7 +53,7 @@ export function Footer() {
            <p><strong>2. Data We Collect</strong><br/>We may collect personal information such as your name, email address, phone number, and property preferences when you use our services or contact us.</p>
            <p><strong>3. How We Use Your Data</strong><br/>We use your data to provide real estate services, respond to inquiries, and improve our offerings. We do not sell your data to third parties.</p>
            <p><strong>4. Security</strong><br/>We implement appropriate security measures to protect your personal information.</p>
-           <p><strong>5. Contact</strong><br/>For privacy concerns, contact us at sqrtron.ai@gmail.com.</p>
+           <p><strong>5. Contact</strong><br/>For privacy concerns, contact us at arsalaan@sqrtron.com.</p>
         </div>
       </Modal>
 
